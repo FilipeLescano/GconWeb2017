@@ -1,0 +1,5 @@
+c:\users\filipe\documents\visual studio 2012\Projects\GCon Web 1\GCon Web 1\bin\GCon Web 1.dll
+c:\users\filipe\documents\visual studio 2012\Projects\GCon Web 1\GCon Web 1\bin\GCon Web 1.pdb
+c:\users\filipe\documents\visual studio 2012\Projects\GCon Web 1\GCon Web 1\obj\Debug\GCon Web 1.csprojResolveAssemblyReference.cache
+c:\users\filipe\documents\visual studio 2012\Projects\GCon Web 1\GCon Web 1\obj\Debug\GCon Web 1.dll
+c:\users\filipe\documents\visual studio 2012\Projects\GCon Web 1\GCon Web 1\obj\Debug\GCon Web 1.pdb
